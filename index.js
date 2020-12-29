@@ -11,3 +11,8 @@ if (true){
 
 console.log(message)
 console.log(message1)
+
+// without variabel
+message = "Tanpa Variabel";
+
+console.log(message)
